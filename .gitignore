@@ -4,10 +4,10 @@
 .*
 *.o
 *.o.*
-*.a
-*.s
-Kbuild
-Config.in
+#*.a
+#*.s
+#Kbuild
+#Config.in
 
 #
 # Never ignore these
@@ -25,9 +25,9 @@ Config.in
 # Backups / patches
 #
 *~
-*.orig
-*.rej
-/*.patch
+#*.orig
+#*.rej
+#/*.patch
 
 #
 # debugging stuff
